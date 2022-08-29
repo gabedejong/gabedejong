@@ -1,4 +1,4 @@
-- I’m @gabedejong and I am working for [Flowbooster](https://flowbooster.io).
+I’m @gabedejong and I am working for [Flowbooster](https://flowbooster.io).
 
 <!---
 gabedejong/gabedejong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
